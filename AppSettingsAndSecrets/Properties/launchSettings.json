@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AppSettingsAndSecrets": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "development"
+      }
+    }
+  }
+}
